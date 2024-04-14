@@ -391,12 +391,6 @@ class Main:
 
 
     # ++++++++++++++++++++++++++++++++ INSTITUTION ENTITY ++++++++++++++++++++++++++++++++++++
-        """
-        student_id
-        present_class
-        name_of_school
-
-        """
     # Add n number of institutions
     def add_institutions(self):
         num_institutions = int(input("Enter number of institutions to add: "))
